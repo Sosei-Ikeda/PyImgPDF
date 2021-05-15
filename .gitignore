@@ -3,9 +3,9 @@
 __pycache__
 env
 .DS_Store
-from_img/*
-from_pdf/*
-img_converted/*
-img_raw/*
-to_img/*
-to_pdf/*
+from_img/
+from_pdf/
+img_converted/
+img_raw/
+to_img/
+to_pdf/
