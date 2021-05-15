@@ -10,7 +10,7 @@ env\Scripts\activate
 仮想環境上でpython convert_jpg.py folder1 folder2 width height
 
 *jpg_to_pdf
-仮想環境上でpython pdf_to_jpg.py folder file.pdf
+仮想環境上でpython jpg_to_pdf.py folder (pdf名はfolder)
 
 *pdf_to_jpg
-仮想環境上でpython jpg_to_pdf.py file.pdf folder
+仮想環境上でpython pdf_to_jpg.py file.pdf folder
